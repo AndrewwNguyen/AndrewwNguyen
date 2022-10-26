@@ -1,3 +1,5 @@
+                      
+                                                                        🎓 Something about me 🎓
 - 👋 Hi, I’m @Andreww
 - 👀 I’m interested in music
 - 🌱 I’m currently a Fresher at Fsoft
