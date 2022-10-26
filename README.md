@@ -1,5 +1,5 @@
                       
-                                                                        🎓 Something about me 🎓
+   
 - 👋 Hi, I’m @Andreww
 - 🌱 I’m currently a Fresher at Fsoft
 - 💪 I Have experience in C#, API, Angular
