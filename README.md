@@ -1,7 +1,7 @@
                       
    
 - 👋 Hi, I’m @Andreww
-- 🌱 I’m currently a Fresher at Fsoft
+- 🌱 I’m currently a Fresher .NET at Fsoft
 - 💪 I Have experience in C#, API, Angular
 - 🎯 My goal: Become a senior web developer
 - 🎧 I’m interested in music
